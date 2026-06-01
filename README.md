@@ -7,9 +7,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap
-- ⚙️ Backend: PHP, Laravel (learning)
-- 🗄️ Database: MySQL
+- 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap , React js 
+- ⚙️ Backend: PHP, Laravel, Node js, Express js 
+- 🗄️ Database: MySQL, MongoDb , SQL 
 - 🧰 Tools: Git, GitHub, VS Code
 
 ---
