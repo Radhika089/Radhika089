@@ -1,7 +1,7 @@
 # Hi 👋 I'm Radhika
 
-💻 Aspiring Full Stack Developer  
-🌱 Currently learning Laravel  
+💻 Full Stack Developer  
+🌱 Currently building projects using MERN Stack
 🎯 Goal: Become a job-ready developer & build real-world web applications  
 
 ---
