@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Radhika
+# 👋 Hi, I'm Radhika Gupta
 
-### Backend Developer • MERN Stack Developer • Building in Public
+### Full Stack Developer | MERN • Laravel • Building Business Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Building+real-world+web+applications.;Backend+Developer+who+loves+solving+problems.;Learning+React+%7C+System+Design+%7C+MERN.;Always+building.+Always+learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real-world+business+problems.;Full+Stack+Developer.;MERN+%7C+Laravel+%7C+Node.js+%7C+React.;Always+learning.+Always+building." />
 
 </div>
 
@@ -13,33 +13,26 @@
 
 <td width="58%" valign="top">
 
-## 💫 About Me
+## 👩‍💻 About Me
 
-💻 I'm passionate about building **secure, scalable backend systems** and turning ideas into real-world applications.
+I'm a **Full Stack Developer** who enjoys building practical software that helps businesses operate more efficiently.
 
-🚀 Currently focused on becoming a **job-ready Full Stack MERN Developer** by building production-ready projects.
+My focus is on creating complete applications—from responsive user interfaces to secure backend APIs and database design.
 
-🌱 **Currently Learning**
+Currently expanding my skills in **React, scalable backend architecture, and system design** while building production-style projects.
 
-* React.js
-* Advanced Backend Architecture
-* System Design
-* Clean Code Practices
+### 🎯 Current Goals
 
-🎯 **2026 Goals**
-
-* 💼 Land my first Software Developer role
-* 🚀 Build & deploy production-ready MERN projects
+* 🚀 Build production-ready MERN applications
+* 📚 Strengthen React & System Design
 * 🌍 Contribute to Open Source
-* 📚 Keep learning every single day
-
-> **Practice → Projects → Progress**
+* 💼 Secure a Full Stack Developer role
 
 </td>
 
 <td width="42%">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Coding"/>
 
 </td>
 
@@ -48,17 +41,89 @@
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Featured Projects
 
-* 💳 Building **VaultPay** — Digital Wallet Backend
-* 📋 Developing **Project Management System (MERN)**
-* 📦 Building **AssetFlow** (Hackathon Project)
-* ⚛️ Learning React.js
-* 🧠 Improving DSA & System Design
+## 🍽️ HB POS — Restaurant Management & Point of Sale
+
+A comprehensive restaurant management platform built with **Laravel & MySQL** to streamline restaurant operations.
+
+**Highlights**
+
+* 🍔 Point of Sale (POS)
+* 🪑 Table Management
+* 📦 Inventory Management
+* 🧾 Billing & Invoicing
+* 👨‍🍳 Kitchen Display System (KDS)
+* 👥 Customer Management
+* 📊 Reports & Analytics
+* 🔐 Authentication & Role Management
+
+**Tech Stack**
+
+Laravel • PHP • MySQL • Bootstrap • JavaScript
+
+🌐 **Live Demo:** https://hbpos.hbiscloud.in/
 
 ---
 
-# 🛠️ Tech Stack
+## 💳 VaultPay
+
+A secure fintech-style digital wallet backend focused on reliable transactions and backend architecture.
+
+**Highlights**
+
+* JWT Authentication
+* Wallet Accounts
+* Money Transfers
+* Double-entry Ledger
+* Transaction History
+* Idempotent Requests
+* Role-Based Access Control
+* REST APIs
+* Deployed on Render
+
+**Tech Stack**
+
+Node.js • Express • MongoDB
+
+---
+
+## 📋 Project Management System
+
+A MERN application that helps teams organize projects, collaborate, and manage work efficiently.
+
+**Highlights**
+
+* Authentication
+* Team Collaboration
+* Project Management
+* Task Tracking
+* Dashboard
+
+**Tech Stack**
+
+MongoDB • Express • React • Node.js
+
+---
+
+## 📦 AssetFlow
+
+A hackathon project designed to simplify organizational asset management.
+
+**Highlights**
+
+* Asset Tracking
+* Inventory Management
+* Team Collaboration
+* Reporting Dashboard
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB
+
+---
+
+# 💻 Tech Stack
 
 ### Frontend
 
@@ -86,125 +151,45 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🌱 What I'm Working On
 
-### 💳 VaultPay
-
-A secure digital wallet backend built with **Node.js, Express & MongoDB**.
-
-**Highlights**
-
-* JWT Authentication
-* Wallet Accounts
-* Money Transfers
-* Ledger System
-* Transaction History
-* Idempotent Transactions
-* Role-Based Access Control
-* RESTful APIs
-* Deployed on Render
-
----
-
-### 📋 Project Management System (MERN)
-
-A collaborative project management platform designed for teams.
-
-**Highlights**
-
-* User Authentication
-* Project & Task Management
-* Team Collaboration
-* Role-Based Permissions
-* Dashboard & Progress Tracking
-
----
-
-### 📦 AssetFlow *(Hackathon Project)*
-
-A web application built during a hackathon to simplify organizational asset management.
-
-**Highlights**
-
-* Asset Tracking
-* Inventory Management
-* Team Collaboration
-* Modern Dashboard
-
----
-
-### 🍽️ Restaurant Management System
-
-Restaurant management application built using **Laravel & MySQL**.
-
-**Highlights**
-
-* Authentication
-* Menu Management
-* Order Management
-* CRUD Operations
-* Database Management
+* ⚛️ Advanced React
+* 🚀 Production-Ready MERN Applications
+* 🧠 System Design Fundamentals
+* 📚 Data Structures & Algorithms
+* 🌍 Open Source Contributions
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Radhika089&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika089&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Radhika089&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Radhika089&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🌱 Building in Public
-
-I enjoy documenting my learning journey, sharing projects, and connecting with other developers while continuously improving my skills.
-
----
-
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
 <p align="left">
-
-<a href="https://github.com/Radhika089">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://x.com/">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
+<a href="https://github.com/Radhika089"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💡 I believe the best way to learn is to build.
 
-*"Code with curiosity. Build with consistency."*
+**From restaurant operations to fintech, project collaboration, and asset management—I'm building software that solves real-world business problems.**
+
+⭐ Thanks for visiting my profile!
 
 </div>
