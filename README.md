@@ -65,7 +65,27 @@ I enjoy taking an idea from concept to deployment—designing intuitive user int
 
 <td width="40%">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Developer coding illustration"/>
+## 🎯 Quick Facts
+
+```text
+💼 Role
+Full Stack Developer
+
+🌍 Based In
+India
+
+💻 Specialization
+MERN Stack & Laravel
+
+🏗️ Building
+Business Applications
+
+📚 Learning
+React • System Design
+
+🎯 Goal
+Software Engineer
+```
 
 </td>
 
