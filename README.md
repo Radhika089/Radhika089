@@ -1,118 +1,143 @@
-# Hi there 👋 I'm Radhika
+<div align="center">
 
-### Full Stack Developer (MERN) | Backend Enthusiast | Building in Public
+# Hi 👋 I'm Radhika
 
-I'm a developer passionate about building scalable web applications and writing clean, maintainable code.
+### 🚀 Full Stack Developer (MERN) | Backend Developer | Open to Opportunities
 
-Currently focused on mastering the **MERN Stack**, improving backend architecture, and building projects that solve real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;Building+Projects+Every+Day;Learning+Something+New+%F0%9F%9A%80" />
+
+<img src="https://komarev.com/ghpvc/?username=Radhika089&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 💫 About Me
+
+💻 Passionate about building real-world applications.
+
+🚀 Currently building **Full Stack MERN Projects**
+
+📚 Learning **React, Advanced Backend & System Design**
+
+🎯 Goal: Become a highly skilled Full Stack Developer
+
+⚡ Fun Fact: I enjoy debugging more than writing UI 😄
+
+---
+
+# 🚀 Tech Stack
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Bootstrap
-* Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
 
 ### Backend
 
-* Node.js
-* Express.js
-* PHP
-* Laravel
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
 
-### Databases
+### Database
 
-* MongoDB
-* MySQL
-* SQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Tools
 
-* Git
-* GitHub
-* Postman
-* VS Code
-* Render
-
----
-
-## 🌱 Currently Learning
-
-* React.js
-* Advanced Backend Development
-* System Design Fundamentals
-* Authentication & Authorization
-* Clean Architecture
-* API Design
-
----
-
-## 💼 Featured Projects
-
-### 💳 VaultPay API
-
-A secure digital wallet backend built with Node.js, Express, and MongoDB.
-
-**Features**
-
-* JWT Authentication
-* Wallet Management
-* Money Transfers
-* Transaction History
-* Ledger System
-* Idempotent Transactions
-* Role-based Authorization
-* RESTful APIs
-* Deployed on Render
-
----
-
-### 🍽️ Restaurant Management System
-
-A complete restaurant management application built with **PHP + MySQL** featuring order management, menu handling, and record management.
-
----
-
-### 🌐 Frontend Projects
-
-* Innova Website
-* Auto Insurance Website
-* Aura Landing Page
-* Organic Store Website
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radhika089&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika089&layout=compact&theme=tokyonight" height="170"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🌱 Currently Working On
 
-* 🚀 Become a job-ready Full Stack Developer
-* 💼 Land my first developer role
-* 📦 Build production-ready MERN applications
-* 📖 Learn System Design & DSA
-* 🌍 Contribute to Open Source
+✅ VaultPay Backend API
 
----
+✅ React.js
 
-## 🤝 Let's Connect
+✅ System Design
 
-* GitHub: **github.com/Radhika089**
-* LinkedIn: **https://www.linkedin.com/in/radhika-bansal-7679b2330/**
-* X (Twitter): **@radhikabuilds**
+✅ Clean Code
 
 ---
 
-> **"Every project teaches something that no tutorial can."** ✨
+# 🚀 Featured Project
+
+## 💳 VaultPay
+
+A secure Digital Wallet Backend built with Node.js & MongoDB.
+
+✨ Features
+
+* JWT Authentication
+* Wallet System
+* Money Transfers
+* Ledger
+* Idempotency
+* Transactions
+* Role Based Access
+* REST APIs
+* Render Deployment
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Radhika089&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika089&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Radhika089&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Radhika089&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Radhika089">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://x.com/">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Practice → Projects → Progress ⭐
+
+*"Consistency beats motivation."*
+
+</div>
