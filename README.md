@@ -7,7 +7,7 @@
 Building secure, scalable, and user-focused web applications that solve real-world business problems.
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Business+Applications;MERN+%7C+Laravel+%7C+Node.js+%7C+React;Always+Learning.+Always+Building." alt="Typing animation introducing Radhika Gupta and her development focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Business+Applications;MERN+%7C+Laravel+%7C+Node.js+%7C+React;Always+Learning.+Always+Building." alt="Typing animation introducing Radhika Bansal and her development focus" />
 </p>
 
 <p>
@@ -162,7 +162,7 @@ A collaborative MERN application that enables teams to organize projects, manage
 
 MongoDB • Express.js • React • Node.js
 
-📂 **Repository:** YOUR_GITHUB_LINK
+📂 **Repository:** (https://github-readme-stats.vercel.app/api?username=Radhika089&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -194,30 +194,21 @@ React • Node.js • Express.js • MongoDB
 </p>
 
 ---
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Radhika089&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Radhika's GitHub Stats"
-    height="170"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika089&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Radhika's Top Languages"
-    height="170"
-  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Radhika089&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika089&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Radhika089&theme=tokyonight&hide_border=true"
-    alt="Radhika's GitHub Streak"
-  />
+
+<img src="https://streak-stats.demolab.com?user=Radhika089&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
 </p>
----
 
 # 🌱 Currently Exploring
 
