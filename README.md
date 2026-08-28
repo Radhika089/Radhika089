@@ -195,22 +195,28 @@ React • Node.js • Express.js • MongoDB
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Radhika089&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Radhika's GitHub Stats"
+    height="170"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Radhika089&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika089&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika089&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Radhika's Top Languages"
+    height="170"
+  />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Radhika089&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=Radhika089&theme=tokyonight&hide_border=true"
+    alt="Radhika's GitHub Streak"
+  />
 </p>
-
 ---
 
 # 🌱 Currently Exploring
